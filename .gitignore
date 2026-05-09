@@ -32,5 +32,5 @@ tsconfig.tsbuildinfo
 # Plans and internal working documents
 plans/
 
-# Reference docs (binary assets, not source)
-docs/
+# UI reference images (binary assets used during design, not project documentation)
+docs/UI reference/
